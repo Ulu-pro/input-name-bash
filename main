@@ -1,5 +1,5 @@
 #!/bin/bash
-#bash ./bash
+
 echo "Enter name:"
 read name
 echo -e "\n === Hello, $name! ===\n";
